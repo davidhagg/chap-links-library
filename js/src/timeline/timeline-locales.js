@@ -134,3 +134,18 @@ links.locales['nl'] = {
 
 links.locales['nl_NL'] = links.locales['nl'];
 links.locales['nl_BE'] = links.locales['nl'];
+
+// Swedish ===================================================
+links.locales['sv'] = {
+    'MONTHS': new Array("januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"),
+    'MONTHS_SHORT': new Array("jan", "feb", "mar", "apr", "maj", "jun", "jul", "aug", "sep", "okt", "nov", "dec"),
+    'DAYS': new Array("Söndag", "Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag"),
+    'DAYS_SHORT': new Array("Sön", "Mån", "Tis", "Ons", "Tor", "Fre", "Lör"),
+    'ZOOM_IN': "Zooma in",
+    'ZOOM_OUT': "Zooma ut",
+    'MOVE_LEFT': "Flytta vänster",
+    'MOVE_RIGHT': "Flytta höger",
+    'NEW': "Ny",
+    'CREATE_NEW_EVENT': "Skapa ny händelse"
+};
+links.locales['sv_SE'] = links.locales['sv'];
